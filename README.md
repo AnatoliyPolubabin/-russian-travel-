@@ -24,4 +24,4 @@ ___
 
 **GitHub**
 
-* [Ссылка на проект в GitHub](https://anatoliypolubabin.github.io/russian-travel2/)
+* [Ссылка на проект в GitHub]()

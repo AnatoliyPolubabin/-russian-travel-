@@ -1,7 +1,7 @@
 .place__paragraph {
     font-weight: 400;
     font-size: 18px;
-    line-height: 163%;
+    line-height: 29px;
     margin: 0;
     padding-bottom: 26px;
     width: 100%;
@@ -29,6 +29,7 @@
         margin: 0 auto;
         padding-bottom: 25px;
         width: 90%;
+        line-height: 26px;
     
     }
 }

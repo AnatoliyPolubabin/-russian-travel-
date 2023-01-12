@@ -10,12 +10,12 @@
     color: #FFFFFF;
     max-width: 456px;
     width: 100%;
-    transition: 0.3s ease-in;
+    transition: 0.1s ease-in;
 }
 
 .place__website-link:hover {
-    opacity: 0.3;
-  }
+    opacity: 0.8;
+}
 
 
 @media screen and (max-width: 768px) {

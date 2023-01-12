@@ -8,12 +8,14 @@
   box-sizing: border-box;
   flex-wrap: wrap;
   align-items: center;
+  
 }
 
 @media screen and (max-width: 1024px) {
   .footer {
     max-width: 90.625%;
     width: 100%;
+   
   }
 }
 
